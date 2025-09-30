@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+loanenv/
+myenv/
+
+# Environment variables
+.env
+
+# ML model files (optional, ignore if large)
+*.pkl
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
